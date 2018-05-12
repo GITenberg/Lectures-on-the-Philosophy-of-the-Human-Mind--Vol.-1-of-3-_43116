@@ -1,0 +1,27 @@
+_repo: Lectures-on-the-Philosophy-of-the-Human-Mind--Vol.-1-of-3-_43116
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43116-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brown, Thomas
+    birthdate: 1778
+    deathdate: 1820
+    gutenberg_agent_id: '45074'
+    url: http://www.gutenberg.org/2009/agents/45074
+description: ''
+gutenberg_issued: '2013-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43116'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Psychology'
+- !lcsh 'Philosophy'
+title: Lectures on the Philosophy of the Human Mind (Vol. 1 of 3)
+url: http://www.gutenberg.org/ebooks/43116
